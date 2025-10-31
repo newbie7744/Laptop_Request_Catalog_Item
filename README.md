@@ -21,11 +21,9 @@ Role	Name
 Team ID: NM2025TMID04922
 Team Size: 4 Members
 
-🌐 ServiceNow Instance
+🔗 ServiceNow Developer Instance: https://dev200394.service-now.com/navpage.do
 
-🔗 ServiceNow Developer Instance
-
-🎥 Demo Video
+🎥 Demo Video: https://drive.google.com/file/d/1E7nVAUocowNG9niFKPCz1VTnUDe80RcV/view?usp=drivesdk
 
 ▶️ Watch the Demo Video on Google Drive
 
