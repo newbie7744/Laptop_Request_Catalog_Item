@@ -1,4 +1,4 @@
-💻 Laptop Request Catalog Item
+💻 Laptop Request Catalog Item.
 
 This project is a ServiceNow-based Catalog Item designed to streamline the laptop request process for employees within an organization. 
 It enables users to easily raise requests for laptops through a self-service portal, while automating approval workflows and fulfillment processes.
